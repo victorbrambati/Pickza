@@ -39,8 +39,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 ### Server (Json Server)
 
 Clone repository [Pickza Server](https://github.com/victorbrambati/PickzaServer). \
-[Pickza Server](https://github.com/victorbrambati/PickzaServer) use [Json Server](https://github.com/victorbrambati/PickzaServer) that create fake Rest API.
 \
+[Pickza Server](https://github.com/victorbrambati/PickzaServer) use [Json Server](https://github.com/victorbrambati/PickzaServer) that create fake Rest API.
 \
 download the dependencies with `yarn`\
 init server with `yarn start`\
