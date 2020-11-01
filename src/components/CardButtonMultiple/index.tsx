@@ -26,6 +26,7 @@ const CardButtonMultiple = ({
     } else if (picker === false) {
       var index = pickers.indexOf(nameProps);
       pickers.splice(index, 1);
+      setPickers([...pickers]);
     }
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [picker]);
