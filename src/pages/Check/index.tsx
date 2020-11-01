@@ -44,7 +44,6 @@ const Check = () => {
     price: 0,
     crust: '',
   });
-  console.log(toppingsNames.length);
 
   return (
     <Container>
