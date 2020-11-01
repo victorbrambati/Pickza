@@ -20,8 +20,6 @@ export type Crusts = {
 const Crust = () => {
   const location = useLocation<LocationStateSize>();
   const [crusts, setCrusts] = useState<Crusts[]>();
-  const locations = useLocation();
-  console.log(locations.state);
 
   useEffect(() => {
     api.get('crusts').then((response) => {
