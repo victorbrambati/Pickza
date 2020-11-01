@@ -7,6 +7,7 @@ export default createGlobalStyle`
       box-sizing: border-box;
       
       color: var(--primary);
+      letter-spacing: 0.0475296px;
   }
   html, body, #root {
       max-height: 100vh;
