@@ -1,46 +1,68 @@
-# Getting Started with Create React App
+<h1 align="center">
+    Pickza
+</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/victorbrambati/Twitter-UI-clone.svg">
 
-## Available Scripts
+  <a href="https://app.codacy.com/gh/victorbrambati/Twitter-UI-clone/dashboard?utm_source=github.com&utm_medium=referral&utm_content=victorbrambati/Twitter-UI-clone&utm_campaign=Badge_Grade">
+    <img alt="Codacy grade" src="https://img.shields.io/codacy/grade/dd44dc3f895e4f6fa9ee22f6521dd099">
+  </a>
 
-In the project directory, you can run:
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/victorbrambati/Twitter-UI-clone.svg">
+  <a href="https://github.com/lukemorales/bancointer/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/victorbrambati/Twitter-UI-clone.svg">
+  </a>
+
+  <a href="https://github.com/victorbrambati/Twitter-UI-clone/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/victorbrambati/Twitter-UI-clone.svg">
+  </a>
+
+  <img alt="GitHub" src="https://img.shields.io/github/license/victorbrambati/Twitter-UI-clone.svg">
+</p>
+
+<h4 align="center">
+App for pick pizza, choose toppings and crust.
+
+Have some specifications.
+
+</h4>
+
+![App Screenshot](https://res.cloudinary.com/victorbrambati/image/upload/v1604251063/Frame_17_1_ozquuk.png)
+
+  </a>
+</p>
+
+## 🎉 how to start
 
 ### `yarn start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### Server (Json Server)
 
-### `yarn test`
+Clone repository [blabla]().\
+download the dependencies with `yarn`\
+init server with `yarn start`\
+Open [http://localhost:7000](http://localhost:7000) to view server in the browser.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🚀 Technologies
 
-### `yarn build`
+This project is for study purposes with the following technologies:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- [ReactJS](https://reactjs.org/)
+- [Typescript][ts]
+- [styled-components](https://www.styled-components.com/)
+- [Json Server](https://github.com/typicode/json-server)
+- [VS Code][vscode] with [EditorConfig][vceditconfig] and [ESLint][vceslint]
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Made with ♥ by Victor Brambati 🌊 [Get in touch!](https://www.linkedin.com/in/victor-brambati-44b054172/)
 
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+[ts]: https://www.typescriptlang.org
+[vscode]: https://code.visualstudio.com/
+[yarn]: https://yarnpkg.com/
+[vceditconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
+[vceslint]: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
